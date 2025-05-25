@@ -75,4 +75,4 @@ This project provides a real-time collaborative document editor, with a scalable
 
 #OUTPUT
 
-42bdeef![Image](https://github.com/user-attachments/assets/868341fe-7260-422c-ae41-7909)
+![Image](https://github.com/user-attachments/assets/87f0649a-af16-4315-980a-22abf5df323c)
