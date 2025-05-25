@@ -1,0 +1,16 @@
+const express = require('express');
+const DocumentController = require('../controllers/documentController');
+
+const router = express.Router();
+const documentController = new DocumentController();
+
+function setDocumentRoutes(app) {
+    router.post('/documents', documentController.createDocument.bind(documentController));
+    router.get('/documents/:id', documentController.getDocument.bind(documentController));
+    router.put('/documents/:id', documentController.updateDocument.bind(documentController));
+    router.delete('/documents/:id', documentController.deleteDocument.bind(documentController));
+
+    app.use('/api', router);
+}
+
+module.exports = setDocumentRoutes;
