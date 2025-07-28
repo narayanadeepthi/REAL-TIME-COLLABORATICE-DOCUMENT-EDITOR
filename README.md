@@ -71,14 +71,3 @@ The project is developed using Visual Studio Code (VS Code), a popular code edit
 *Conclusion*
 
 This project provides a real-time collaborative document editor, with a scalable and high-performance backend and a dynamic and responsive frontend. The application is built using popular frameworks and libraries, including Node.js, Express.js, MongoDB, React.js, and Vue.js. The project demonstrates a microservices architecture, with a separate backend and frontend, and provides a scalable and high-performance solution for real-time collaboration and document storage.
-
-
-#OUTPUT
-
-![Image](https://github.com/user-attachments/assets/87f0649a-af16-4315-980a-22abf5df323c)
-
-![Image](https://github.com/user-attachments/assets/b55d799d-7707-423c-bf53-6dbdc91ad8b4)
-
-![Image](https://github.com/user-attachments/assets/c7496d85-e929-464d-899b-c097f0c5622f)
-
-![Image](https://github.com/user-attachments/assets/1008102d-285d-437d-8ba9-4cbddd860f03)
